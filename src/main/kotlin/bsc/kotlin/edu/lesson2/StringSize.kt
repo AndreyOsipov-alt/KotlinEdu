@@ -16,5 +16,5 @@ fun sizeString(str: String) : Int? {
 }
 
 fun calcLengthString(str: String) : Int? {
-    return str.takeIf { it.isEmpty() }?.length
+    return str.takeIf { it.isNotEmpty()}?.length
 }

@@ -3,8 +3,6 @@
 build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
 d
 4src/main/kotlin/bsc/kotlin/edu/lesson1/HelloWorld.kt,5\1\5170db4e519f8dd881453d1f8873ae077b425e53
-b
-2src/main/kotlin/bsc/kotlin/edu/lesson1/ReadLine.kt,7\a\7af55329eb331de7e9cfef6d6f8af7007b1b5602
 a
 1src/main/kotlin/bsc/kotlin/edu/lesson1/ModLazy.kt,8\4\84359709da7223603fb8f4c8c8f61bd0ebc2cfc5
 K

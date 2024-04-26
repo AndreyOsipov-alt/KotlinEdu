@@ -23,3 +23,15 @@ h
 8src/main/kotlin/bsc/kotlin/edu/lesson1/GlobalProperty.kt,3\8\386cb8dbcdf8991f7c7a4884d73ddbc6aa42f3ea
 C
 settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
+b
+2src/main/kotlin/bsc/kotlin/edu/lesson1/ReadLine.kt,7\a\7af55329eb331de7e9cfef6d6f8af7007b1b5602
+f
+6src/main/kotlin/bsc/kotlin/edu/lesson1/InitVariable.kt,b\a\ba2370b7599ea9f0127199ca19fba21a6e9c59a1
+d
+4src/main/kotlin/bsc/kotlin/edu/lesson2/StringSize.kt,b\0\b0bef7cc13b07ef81f83c0b53b870ab76c989d36
+r
+Bsrc/main/kotlin/bsc/kotlin/edu/lesson3/repository/SharedStorage.kt,7\1\71968eaff4b0fcfe586cab08027561c57c816419
+j
+:src/main/kotlin/bsc/kotlin/edu/lesson3/repository/Plain.kt,a\6\a62144eb283932a003d12ed2fd256bc8d0015279
+i
+9src/main/kotlin/bsc/kotlin/edu/lesson3/repository/Main.kt,f\6\f653a030ebb05b4a99df2a64d092e6d04fe8cf82
